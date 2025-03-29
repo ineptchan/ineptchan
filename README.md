@@ -14,10 +14,11 @@
 
 ---
 
-### 技能栈
+### 🚀 我的技能栈  
 
 **前端：**
 - Vue.js，HTML5,JavaScript，CSS3,，TypeScript
+- Vue Router, Pinia, Element UI，Quasarch
 
 **后端：**
 - Kotlin，Java，Golang
