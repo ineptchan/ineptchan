@@ -35,7 +35,7 @@
 ### 联系方式
 
 - **Email:** ineptchan@outlook.com
-- **个人博客:** [你的博客](https://blog.inept.top)
+- **个人博客:** [博客](https://blog.inept.top)
 
 ---
 
