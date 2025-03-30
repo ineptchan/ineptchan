@@ -32,6 +32,11 @@
 - Docker
 - Git, CI/CD
 
+### 联系方式
+
+- **Email:** ineptchan@outlook.com
+- **个人博客:** [你的博客](https://blog.inept.top)
+
 ---
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,go)](https://skillicons.dev)
