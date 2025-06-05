@@ -39,4 +39,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,go,androidstudio)](https://skillicons.dev)
