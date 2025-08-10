@@ -17,16 +17,17 @@
 ### 🚀 我的技能栈  
 
 **前端：**
-- Vue.js，HTML5,JavaScript，CSS3,，TypeScript
-- Vue Router, Pinia, Element UI，Quasarch
+- HTML5, CSS3, Vue.js, TypeScript, JavaScript
+- Vue Router, Pinia, Element UI, Quasarch
 
 **后端：**
-- Kotlin，Java，Golang
-- SpringBoot，MySql，Redis，Mybatis-Plus
+- Kotlin, Java, Golang
+- SpringBoot, Mybatis-Plus, SpringBoot Data Jpa
+- PostgreSQL, MySql, Redis
 - RESTful API
 
 **安卓：**
-- Jetpack Compose，Hilt，Room
+- Jetpack Compose, Hilt, Room
 
 **DevOps & 其他：**
 - Docker
@@ -39,4 +40,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,js,go,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,go,androidstudio,ts,js,vue)](https://skillicons.dev)
