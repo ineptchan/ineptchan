@@ -17,7 +17,7 @@
 ### 🚀 我的技能栈  
 
 **前端：**
-- HTML5, CSS3, Vue.js, TypeScript, JavaScript
+- Nuxt4, Vue.js, TypeScript, HTML5, CSS3, JavaScript
 - Vue Router, Pinia, Element UI, Quasarch
 
 **后端：**
@@ -32,6 +32,7 @@
 **DevOps & 其他：**
 - Docker
 - Git, CI/CD
+- Rust
 
 ### 联系方式
 
@@ -40,4 +41,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=spring,kotlin,java,go,androidstudio,ts,js,vue)](https://skillicons.dev)
+[[![My Skills](https://skillicons.dev/icons?i=spring,kotlin,java,go,androidstudio,ts,js,vue)](https://skillicons.dev)](https://skillicons.dev/icons?i=spring,kotlin,java,rust,go,androidstudio,html,css,js,ts,vue,nuxt)
